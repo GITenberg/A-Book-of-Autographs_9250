@@ -1,0 +1,27 @@
+_repo: A-Book-of-Autographs_9250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+description: Nathaniel Hawthorne presents important papers from soldiers and statesmen
+  of the American Revolution addressed to a good and brave man, General Palmer, who
+  himself drew his sword in the cause.
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Anecdotes'
+- !lcc 'PS'
+- GITenberg
+title: A Book of Autographs
+url: http://www.gutenberg.org/ebooks/9250
